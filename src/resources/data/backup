@@ -1,0 +1,153 @@
+{
+  "products": [{
+      "id": 1,
+      "productName": "Pork Chop Burger",
+      "unitPrice": "49",
+      "pics": "https://www.mediafire.com/convkey/0199/5nybhzjboqh7uvczg.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Cheese Burger (Pork)",
+      "unitPrice": "59",
+      "pics": "https://www.mediafire.com/convkey/e797/9z3nhvnn6xzgda1zg.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Crispy Fish Burger",
+      "unitPrice": "39",
+      "pics": "https://www.mediafire.com/convkey/9499/gk76p90hevm4daqzg.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Bacon Cheeseburger (Pork)",
+      "unitPrice": "69",
+      "pics": "https://www.mediafire.com/convkey/f05e/uj8849m21k8je8ozg.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Beef Burger",
+      "unitPrice": "59",
+      "pics": "https://www.mediafire.com/convkey/3a39/soc9t3p9w8k56sfzg.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Cheese Burger (Beef)",
+      "unitPrice": "69",
+      "pics": "https://www.mediafire.com/convkey/f621/pdbsu60r4tbs8uvzg.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Bacon Cheeseburger (Beef)",
+      "unitPrice": "89",
+      "pics": "https://www.mediafire.com/convkey/b6fd/wpbv3wj3srf91bqzg.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Super Cheese Burger (Beef)",
+      "unitPrice": "79",
+      "pics": "https://www.mediafire.com/convkey/9ffb/m5d3yv01pjqsaxjzg.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "French Fries",
+      "unitPrice": "29",
+      "pics": "https://www.mediafire.com/convkey/62ee/d9e09vj4wc3zxugzg.jpg"
+    },
+    {
+      "id": 10,
+      "productName": "Nuggets",
+      "unitPrice": "39",
+      "pics": "https://www.mediafire.com/convkey/f579/j1iy63huvzot7mjzg.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Fried Fish ",
+      "unitPrice": "39",
+      "pics": "https://www.mediafire.com/convkey/3ed2/i56j6j6b6bjgcdizg.jpg"
+    },
+    {
+      "id": 12,
+      "productName": "Pork Tacos",
+      "unitPrice": "29",
+      "pics": "https://www.mediafire.com/convkey/1d79/ay8coba7mms6kc4zg.jpg"
+    },
+    {
+      "id": 13,
+      "productName": "Chicken Salad",
+      "unitPrice": "59",
+      "pics": "https://www.mediafire.com/convkey/9d02/d7125s23ml85hjtzg.jpg"
+    },
+    {
+      "id": 14,
+      "productName": "Tiramisu",
+      "unitPrice": "49",
+      "pics": "https://www.mediafire.com/convkey/b562/thpqgmgm0u9db99zg.jpg"
+    },
+    {
+      "id": 15,
+      "productName": "Chocolate Milkshake",
+      "unitPrice": "29",
+      "pics": "https://www.mediafire.com/convkey/f295/w6z84ffab8an83mzg.jpg"
+    },
+    {
+      "id": 16,
+      "productName": "Strawberry Milkshake",
+      "unitPrice": "29",
+      "pics": "https://www.mediafire.com/convkey/bdce/ky9fhcmcr2s2b44zg.jpg"
+    },
+    {
+      "id": 17,
+      "productName": "Ice Cream",
+      "unitPrice": "19",
+      "pics": "https://www.mediafire.com/convkey/1dc4/31d10ara1h9cu8czg.jpg"
+    },
+    {
+      "id": 18,
+      "productName": "Coke",
+      "unitPrice": "20",
+      "pics": "https://www.mediafire.com/convkey/a19b/043km10cba384zxzg.jpg"
+    },
+    {
+      "id": 19,
+      "productName": "Ice Coffe",
+      "unitPrice": "25",
+      "pics": "https://www.mediafire.com/convkey/2b25/0zbbbkdib44bt6zzg.jpg"
+    },
+    {
+      "id": 20,
+      "productName": "Ice Green Tea",
+      "unitPrice": "25",
+      "pics": "https://www.mediafire.com/convkey/d0aa/nxjp2zpa9bkmlu1zg.jpg"
+    },
+    {
+      "id": 21,
+      "productName": "Fresh Juice",
+      "unitPrice": "25",
+      "pics": "https://www.mediafire.com/convkey/a491/rmm974ao3d4djjczg.jpg"
+    }
+  ],
+  "orders": [{
+    "orderedDate": "2019-03-04T13:28:37.314Z",
+    "totalPrice": 98,
+    "orders": [{
+        "product": {
+          "id": 3,
+          "productName": "Crispy Fish Burger",
+          "unitPrice": "39",
+          "pics": "https://www.mediafire.com/convkey/d39d/v2uawjkbw1mdedhzg.jpg"
+        },
+        "quantity": 1
+      },
+      {
+        "product": {
+          "id": 2,
+          "productName": "Cheese Burger (Pork)",
+          "unitPrice": "59",
+          "pics": "https://www.mediafire.com/convkey/2ca5/c7nqf2bbzdo29lpzg.jpg"
+        },
+        "quantity": 1
+      }
+    ],
+    "id": 3
+  }]
+}
